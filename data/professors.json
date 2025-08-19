@@ -1,0 +1,104 @@
+{
+    "professors": [
+        {
+            "professor_id": "P001",
+            "first_name": "علی",
+            "last_name": "رحیمی",
+            "email": "ali.rahimi@university.ir",
+            "phone": "+98-912-1234561",
+            "password": "prof123",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P002",
+            "first_name": "رضا",
+            "last_name": "کریمی",
+            "email": "reza.karimi@university.ir",
+            "phone": "+98-912-1234562",
+            "password": "prof234",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P003",
+            "first_name": "مهدی",
+            "last_name": "حسینی",
+            "email": "mehdi.hosseini@university.ir",
+            "phone": "+98-912-1234563",
+            "password": "prof345",
+            "supervision_capacity": 5,
+            "referee_capacity": 11
+        },
+        {
+            "professor_id": "P004",
+            "first_name": "حسین",
+            "last_name": "ابراهیمی",
+            "email": "hossein.ebrahimi@university.ir",
+            "phone": "+98-912-1234564",
+            "password": "prof456",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P005",
+            "first_name": "محمد",
+            "last_name": "احمدی",
+            "email": "mohammad.ahmadi@university.ir",
+            "phone": "+98-912-1234565",
+            "password": "prof567",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P006",
+            "first_name": "فرهاد",
+            "last_name": "مرادی",
+            "email": "farhad.moradi@university.ir",
+            "phone": "+98-912-1234566",
+            "password": "123456",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P007",
+            "first_name": "ناصر",
+            "last_name": "قاسمی",
+            "email": "naser.ghasemi@university.ir",
+            "phone": "+98-912-1234567",
+            "password": "prof789",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P008",
+            "first_name": "احمد",
+            "last_name": "شیرازی",
+            "email": "ahmad.shirazi@university.ir",
+            "phone": "+98-912-1234568",
+            "password": "prof890",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P009",
+            "first_name": "سعید",
+            "last_name": "فتاحی",
+            "email": "saeed.fattahi@university.ir",
+            "phone": "+98-912-1234569",
+            "password": "prof901",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        },
+        {
+            "professor_id": "P010",
+            "first_name": "حامد",
+            "last_name": "نجفی",
+            "email": "hamed.najafi@university.ir",
+            "phone": "+98-912-1234570",
+            "password": "prof012",
+            "supervision_capacity": 5,
+            "referee_capacity": 10
+        }
+    ]
+}

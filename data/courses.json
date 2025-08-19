@@ -1,0 +1,82 @@
+[
+    {
+        "id": "C001",
+        "title": "پایان نامه سیستم‌های اطلاعاتی",
+        "professor_id": "P001",
+        "year": "1404",
+        "semester": "اول",
+        "capacity": 2
+    },
+    {
+        "id": "C002",
+        "title": "پایان نامه هوش مصنوعی",
+        "professor_id": "P002",
+        "year": "1404",
+        "semester": "اول",
+        "capacity": 3
+    },
+    {
+        "id": "C003",
+        "title": "پایان نامه امنیت شبکه",
+        "professor_id": "P003",
+        "year": "1404",
+        "semester": "اول",
+        "capacity": 1
+    },
+    {
+        "id": "C004",
+        "title": "پایان نامه مهندسی نرم‌افزار",
+        "professor_id": "P004",
+        "year": "1404",
+        "semester": "دوم",
+        "capacity": 5
+    },
+    {
+        "id": "C005",
+        "title": "پایان نامه معماری کامپیوتر",
+        "professor_id": "P005",
+        "year": "1404",
+        "semester": "دوم",
+        "capacity": 2
+    },
+    {
+        "id": "C006",
+        "title": "پایان نامه پردازش تصویر",
+        "professor_id": "P006",
+        "year": "1404",
+        "semester": "دوم",
+        "capacity": 4
+    },
+    {
+        "id": "C007",
+        "title": "پایان نامه پایگاه داده",
+        "professor_id": "P007",
+        "year": "1404",
+        "semester": "اول",
+        "capacity": 3
+    },
+    {
+        "id": "C008",
+        "title": "پایان نامه شبکه های کامپیوتری",
+        "professor_id": "P008",
+        "year": "1404",
+        "semester": "اول",
+        "capacity": 2
+    },
+    {
+        "id": "C009",
+        "title": "پایان نامه محاسبات ابری",
+        "professor_id": "P009",
+        "year": "1404",
+        "semester": "دوم",
+        "capacity": 1
+    },
+    {
+        "id": "C010",
+        "title": "پایان نامه امنیت اطلاعات",
+        "professor_id": "P010",
+        "year": "1404",
+        "semester": "دوم",
+        "capacity": 3
+    }
+]
